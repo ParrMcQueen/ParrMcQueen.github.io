@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Parr McQueen"
-  avatar           : "profile.png"
+  avatar           : "Profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "DC Metro"
   employer         :
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://linkedin.com/in/parrmcqueen/"
+  linkedin         : "parrmcqueen"
   orcid            : "https://orcid.org/0000-0002-7873-0850"
   pinterest        :
   soundcloud       :
