@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Parr McQueen"
   avatar           : "Profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "DC Metro"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
