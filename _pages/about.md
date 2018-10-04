@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! 
+Hello! 
 ======
 
 Short thing here
