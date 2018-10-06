@@ -14,7 +14,7 @@ Coming soon
 
 Coming soon
 
-![ParrMcQueen](/images/parrmcqueen.jpg)
+![ParrMcQueen](/images/parrmcqueen.png)
 
 
 
