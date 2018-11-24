@@ -12,7 +12,7 @@ Coming soon
 ======
 
 
-Coming soon, but while you wait please see some of my photos below.
+Coming soon, but while you wait please enjoy some of my photos below.
 
 ![Parr McQueen](/images/ParrMcQueen.png)
 ![Gallery](/images/Parr_McQueen_Portfolio.png)
