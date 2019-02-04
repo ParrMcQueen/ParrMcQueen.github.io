@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Parr McQueen"
+title: "J. Parr McQueen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
