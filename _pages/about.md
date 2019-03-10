@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Parr McQueen Personal Site"
-excerpt: "Parr McQueen Personal Site About me"
+title: "Parr McQueen's Personal Site"
+excerpt: "Parr McQueen's Personal Site About me"
 author_profile: true
 redirect_from: 
   - /about/
