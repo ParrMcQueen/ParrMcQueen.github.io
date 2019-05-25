@@ -12,7 +12,7 @@ Hello!
 ======
 
 
-I am pursuing my PhD at the University of Florida using bioinformatics and DNA sequencing to research how soil microorganisms are connected to larger issues such as climate change, ecosystem functioning, and sustainable agricultural practices. Soil microbes make up a huge portion of the biodiversity in any ecosystem and are critically important for the overall health of the environment. My research has taken me to a wide range of places from tropical rainforests and urban cemeteries to the Mojave Desert and more. Please see some of my photos below.
+I am pursuing my PhD at the University of Florida using bioinformatics and DNA sequencing to research soil microorganisms in order to better understand abstract concepts such as climate change, ecosystem functioning, and sustainable agricultural practices. Soil microbes make up a huge portion of the biodiversity in any ecosystem and are critically important for the overall health of the environment. My research has taken me to a wide range of places from tropical rainforests and urban cemeteries to the Mojave Desert and more. Please see some of my photos below.
 
 
 ![Parr McQueen](/images/ParrMcQueen.png)
