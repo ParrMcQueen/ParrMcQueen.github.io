@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Parr McQueen, Aspiring Environmental Microbiologist"
 title_separator          : "-"
-name                     : &name "Parr McQueen"
+name                     : &name "J. Parr McQueen"
 description              : &description "personal description"
 url                      : https://parrmcqueen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Parr McQueen"
+  name             : "J. Parr McQueen"
   avatar           : "Profile.png"
   bio              : ""
   location         : 
