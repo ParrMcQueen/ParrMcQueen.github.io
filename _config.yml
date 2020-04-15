@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Parr McQueen, Aspiring Environmental Microbiologist"
+title                    : "Parr McQueen, Environmental Microbiologist"
 title_separator          : "-"
 name                     : &name "J. Parr McQueen"
 description              : &description "personal description"
